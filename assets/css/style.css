@@ -1,0 +1,41 @@
+*{
+    font-family: "Lucida Console", monospace;
+}
+
+
+h1{
+    margin: auto;
+  width: 50%;
+  font-size: 50px;
+  padding: 100px 10px 10px 10px;
+  text-align: center;
+}
+
+header div{
+  float: right;
+}
+
+.buttonContainer{
+  margin: auto;
+  width: 10%;
+  display: flex;
+  flex-direction: column;
+}
+
+.startBox{
+  margin: auto;
+  width: 10%;
+  display: flex;
+  flex-direction: column;
+}
+
+button{
+  margin: 10px;
+  flex: 1 1 auto;
+}
+
+#rightWrong{
+  font-size: 30px;
+  margin: 100px;
+  text-align: center;
+}
