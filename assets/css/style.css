@@ -4,10 +4,16 @@
 
 
 h1{
-    margin: auto;
+  margin: auto;
   width: 50%;
   font-size: 50px;
   padding: 100px 10px 10px 10px;
+  text-align: center;
+}
+
+ul{
+  padding: 10px;
+  font-size: 20px;
   text-align: center;
 }
 
@@ -37,5 +43,13 @@ button{
 #rightWrong{
   font-size: 30px;
   margin: 100px;
+  text-align: center;
+}
+
+#initials{
+  text-align: center;
+}
+
+#goBack{
   text-align: center;
 }
